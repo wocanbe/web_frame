@@ -7,3 +7,4 @@ this command will open a service on port 3000,you can change the port in 'src/co
 gulp prod
 ## how to customize my work space
 you can edit the 'src/config.js' to customize you work
+# test ssh
